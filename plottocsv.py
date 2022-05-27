@@ -2,7 +2,6 @@ import os
 import numpy as np
 import pandas as pd
 import cv2
-from google.colab.patches import cv2_imshow
 import glob as glob
 import pytesseract
 from absl import app,flags
